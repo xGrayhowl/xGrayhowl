@@ -67,7 +67,7 @@ Outside of IT you'll most likely find me hanging around the furry community or w
 ---
 
  ```console
-grayhowl@void-wolf:~$ neofetch
+grayhowl@den-core:~$ neofetch
 
 User.................. Grayhowl
 Role.................. IT Support
