@@ -65,42 +65,19 @@ Outside of IT you'll most likely find me hanging around the furry community or w
 
 ---
 
-<!-- <div align="center">
-
-## 🦴 Wolf Stats
-
-☕ Coffee: ██████████ 100%
-
-🐧 Linux Curiosity: ██████████ 100%
-
-🌐 Networking Addiction: █████████░ 95%
-
-😴 Sleep Schedule: ░░░░░░░░░░ 3%
-
-</div> -->
-
-<!-- ```console
+ ```console
 $ neofetch
 
-User............. Grayhowl
-Role............. IT Support
-Species.......... Wolf 🐺
-OS............... Linux & Windows
-HomeLab.......... Online
-Coffee........... ██████████ 100%
-Sleep............ █░░░░░░░░░ 9%
-Mental Health.... ERROR: value out of range (-12)
-``` -->
-
-```text
-Status Report
-──────────────────────────────
-🟢 HomeLab         Online
-🟢 NAS             Healthy
-🟢 Docker          Running
-🟢 Coffee          Required
-🟡 Sleep           Optional
-🔴 Mental Health   Segmentation fault
+User.................. Grayhowl
+Role.................. IT Support
+Species............... Wolf 🐺
+OS.................... Linux & Windows
+HomeLab............... Online
+Coffee................ ██████████ 100%
+Linux Curiosity....... ██████████ 100%
+Networking Addiction.. █████████░ 95%
+Sleep................. █░░░░░░░░░ 9%
+Mental Health......... ERROR: value out of range (-12)
 ```
 
 ---
