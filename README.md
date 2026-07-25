@@ -66,12 +66,13 @@ Outside of IT you'll most likely find me hanging around the furry community or w
 ---
 
  ```console
-$ neofetch
+grayhowl@void-wolf:~$ neofetch
 
 User.................. Grayhowl
 Role.................. IT Support
+Uptime................ ∞ days (please reboot)
 Species............... Wolf 🐺
-OS.................... Linux & Windows
+Environment........... Linux / Windows / Chaos
 HomeLab............... Online
 Coffee................ ██████████ 100%
 Linux Curiosity....... ██████████ 100%
