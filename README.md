@@ -19,7 +19,7 @@ I enjoy building reliable infrastructure, managing self-hosted services, learnin
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,git,github,bash,flutter,rust,arduino,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,git,github,bash,arduino,vscode" />
 </p>
 
 ---
