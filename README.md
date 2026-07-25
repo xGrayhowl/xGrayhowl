@@ -79,7 +79,7 @@ Outside of IT you'll most likely find me hanging around the furry community or w
 
 </div> -->
 
-```console
+<!-- ```console
 $ neofetch
 
 User............. Grayhowl
@@ -90,6 +90,17 @@ HomeLab.......... Online
 Coffee........... ██████████ 100%
 Sleep............ █░░░░░░░░░ 9%
 Mental Health.... ERROR: value out of range (-12)
+``` -->
+
+```text
+Status Report
+──────────────────────────────
+🟢 HomeLab         Online
+🟢 NAS             Healthy
+🟢 Docker          Running
+🟢 Coffee          Required
+🟡 Sleep           Optional
+🔴 Mental Health   Segmentation fault
 ```
 
 ---
