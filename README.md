@@ -4,7 +4,7 @@
 
 ### *IT Support • Infrastructure • HomeLab*
 
-*"Behind every stable network is a very caffeinated wolf."* ☕
+*"Behind every stable network is a very caffeinated wolf."* ☕ <br>
 *"Building dens, not just servers."* 🌐
 
 </div>
