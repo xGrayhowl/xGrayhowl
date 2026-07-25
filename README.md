@@ -65,7 +65,7 @@ Outside of IT you'll most likely find me hanging around the furry community or w
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ## 🦴 Wolf Stats
 
@@ -77,7 +77,20 @@ Outside of IT you'll most likely find me hanging around the furry community or w
 
 😴 Sleep Schedule: ░░░░░░░░░░ 3%
 
-</div>
+</div> -->
+
+```console
+$ neofetch
+
+User............. Grayhowl
+Role............. IT Support
+Species.......... Wolf 🐺
+OS............... Linux & Windows
+HomeLab.......... Online
+Coffee........... ██████████ 100%
+Sleep............ █░░░░░░░░░ 9%
+Mental Health.... ERROR: value out of range (-12)
+```
 
 ---
 
