@@ -34,7 +34,7 @@ Outside of IT you'll most likely find me hanging around the furry community or w
 ## 🛠️ Tech Den
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,git,github,bash,rust,flutter,arduino,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,git,github,bash,arduino,vscode" />
 </p>
 
 ---
@@ -46,8 +46,6 @@ Outside of IT you'll most likely find me hanging around the furry community or w
 🌐 Networking
 
 🤖 ESP32 & Arduino
-
-📱 Flutter Apps
 
 ⚙️ Automation
 
