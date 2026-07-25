@@ -1,64 +1,94 @@
-# 👋 Hi there, I'm Grayhowl
+<div align="center">
 
-> **IT Support • Infrastructure • HomeLab • Linux**
+# 🐺 Grayhowl
 
-I enjoy building reliable infrastructure, managing self-hosted services, learning Linux, and solving technical problems. I'm constantly expanding my knowledge of networking, system administration, and automation.
+### *IT Support • Infrastructure • HomeLab*
+
+*"Behind every stable network is a very caffeinated wolf."* ☕
+
+</div>
 
 ---
 
-## 🚀 Currently learning
+## 🌲 About Me
 
-- 🐧 Linux Administration
+Hey! I'm **Grayhowl**, a wolf passionate about infrastructure, Linux, networking and self-hosted services.
+
+I enjoy building reliable systems, automating boring tasks and experimenting with new technologies in my HomeLab.
+
+Outside of IT you'll most likely find me hanging around the furry community or working on random electronics projects.
+
+---
+
+## 🐾 Current Quest
+
+- 🐧 Master Linux Administration
 - 🌐 Enterprise Networking
 - 🐳 Docker & Containers
-- 🖥️ Windows Server
-- ⚙️ Infrastructure Automation
+- ☁️ Self-hosting
+- 🔒 Cybersecurity
+- ⚡ Infrastructure Automation
 
 ---
 
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,git,github,bash,arduino,vscode" />
-</p>
-
----
-
-## 💻 What I work on
-
-- 🏠 HomeLab
-- 🌐 Network Infrastructure
-- 📦 Self-Hosted Services
-- 🤖 ESP32 & Arduino Projects
-- 🚛 IT Support
-- ⚡ Automation
-
----
-
-## 📂 Featured Projects
-
-- 🖥️ HomeLab documentation
-- 🚛 ETS2 Dashboard (ESP32)
-- ⚙️ Automation scripts
-
----
-
-## 🎯 Goals for 2026
-
-- 📚 Deepen Linux administration skills
-- 🌍 Learn enterprise networking
-- 🐳 Build production-ready Docker environments
-- ☁️ Expand my HomeLab
-- 🔒 Learn more about cybersecurity
-
----
-
-## 🤝 Let's connect
-
-Feel free to explore my repositories or open an issue if you have a question or idea.
-
----
+## 🛠️ Tech Den
 
 <p align="center">
-  <i>"Always learning. Always building."</i>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,git,github,bash,rust,flutter,arduino,vscode" />
 </p>
+
+---
+
+## 🐺 What You'll Find Here
+
+🖥️ HomeLab Projects
+
+🌐 Networking
+
+🤖 ESP32 & Arduino
+
+📱 Flutter Apps
+
+⚙️ Automation
+
+🐧 Linux Experiments
+
+---
+
+## 📂 Featured Repositories
+
+🏠 HomeLab
+
+🚛 ETS2 Dashboard (ESP32)
+
+📦 Self-hosted Services
+
+⚙️ Useful Scripts
+
+---
+
+<div align="center">
+
+## 🦴 Wolf Stats
+
+☕ Coffee: ██████████ 100%
+
+🐧 Linux Curiosity: ██████████ 100%
+
+🌐 Networking Addiction: █████████░ 95%
+
+😴 Sleep Schedule: ░░░░░░░░░░ 3%
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for stopping by!
+
+⭐ Feel free to explore my repositories.
+
+*"Stay curious. Keep building."* 🐺
+
+</div>
