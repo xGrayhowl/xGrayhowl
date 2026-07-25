@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Grayhowl
 
-<!--
-**xGrayhowl/xGrayhowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> IT Support • Infrastructure • HomeLab
 
-Here are some ideas to get you started:
+I'm passionate about building reliable systems, exploring networking, and learning Linux administration. I enjoy solving technical problems and creating practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently learning
+
+- Linux administration
+- Enterprise networking
+- Docker & containers
+- Windows Server
+- Automation
+
+## 🛠️ Technologies
+
+- Windows
+- Linux
+- Docker
+- TrueNAS
+- ESP32 / Arduino
+- Git
+
+## 🖥️ What I build
+
+- 🏠 HomeLab
+- 🌐 Network infrastructure
+- 📦 Self-hosted services
+- 🤖 IoT projects
+- ⚙️ Automation
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=xGrayhowl&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xGrayhowl&layout=compact&theme=tokyonight)
+
+---
+
+> *"Always learning. Always building."*
