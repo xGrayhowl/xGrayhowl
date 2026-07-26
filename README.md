@@ -66,6 +66,20 @@ Outside of IT you'll most likely find me hanging around the furry community or w
 
 ---
 
+## 📜 Grayhowl Changelog
+
+### v21.0
+- Added: more curiosity
+- Fixed: some bugs
+- Known issues: sleep scheduler
+
+### v20.0
+- Migrated to IT path
+- Added: HomeLab addiction
+- Increased: coffee requirements
+
+---
+
  ```console
 grayhowl@den-core:~$ neofetch
 
